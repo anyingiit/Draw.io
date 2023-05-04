@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T11:20:17.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="-qCuwIIaLJcCxzWqbQgQ" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T11:26:29.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="dVHWHBa8piWgdL79XgIP" version="21.2.7" type="github">
   <diagram name="Page-1" id="JUuehSt6_Uxc9_xFsyI0">
-    <mxGraphModel dx="1674" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,20 +10,64 @@
         <mxCell id="5syzaOpOkkG8eXz4w6tJ-1" value="管理员创建客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5syzaOpOkkG8eXz4w6tJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-2" target="5syzaOpOkkG8eXz4w6tJ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5syzaOpOkkG8eXz4w6tJ-2" value="创建客户端并注册客户端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="5syzaOpOkkG8eXz4w6tJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-4" target="5syzaOpOkkG8eXz4w6tJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5syzaOpOkkG8eXz4w6tJ-4" value="管理员将创建的客户端生成邀请码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5syzaOpOkkG8eXz4w6tJ-6" value="客户端使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-6" target="5syzaOpOkkG8eXz4w6tJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-6" value="客户端使用邀请码提交注册请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-8" target="5syzaOpOkkG8eXz4w6tJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-8" value="客户端使用邀请码提交注册请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-10" target="5syzaOpOkkG8eXz4w6tJ-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="820" />
+              <mxPoint x="210" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-10" target="5syzaOpOkkG8eXz4w6tJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-10" value="验证邀请码是否存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-17" target="5syzaOpOkkG8eXz4w6tJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-17" value="生成客户端会话" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-19" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="808" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-20" target="5syzaOpOkkG8eXz4w6tJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-20" value="返回客户端会话ID" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-22" value="注册失败" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5syzaOpOkkG8eXz4w6tJ-26" target="5syzaOpOkkG8eXz4w6tJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-26" value="创建客户端并注册客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5syzaOpOkkG8eXz4w6tJ-32" value="注册完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
