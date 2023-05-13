@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T09:09:26.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="iNI41jlRB7tVaMmdYHiN" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T19:55:17.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="3mh7eVil88oMEnA9kl7P" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1949" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="453" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -117,6 +117,153 @@
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
             <mxPoint x="-38" y="40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-78" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="770" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-70" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-78">
+          <mxGeometry width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-71" value="任务系统" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-78">
+          <mxGeometry x="130" y="10" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-72" value="用户系统" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-78">
+          <mxGeometry x="260" y="10" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-73" value="客户端&lt;br&gt;系统" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-78">
+          <mxGeometry x="260" y="50" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-74" value="服务系统" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-78">
+          <mxGeometry x="130" y="50" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-76" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-78">
+          <mxGeometry width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-79" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="870" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-80" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-79">
+          <mxGeometry width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-81" value="任务管理界面" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-79">
+          <mxGeometry x="130" y="10" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-82" value="用户管理界面" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-79">
+          <mxGeometry x="260" y="10" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-83" value="客户端&lt;br&gt;管理界面" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-79">
+          <mxGeometry x="260" y="50" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-84" value="服务管理界面" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-79">
+          <mxGeometry x="130" y="50" width="111.42857142857143" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-85" value="WEB界面" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-79">
+          <mxGeometry x="-9.285714285714286" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-86" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="620" width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-86">
+          <mxGeometry width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-42" value="" style="group" vertex="1" connectable="0" parent="bIRoI05e5nSDBnNICcpd-86">
+          <mxGeometry x="70" y="10" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-9" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-42">
+          <mxGeometry width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-10" value="任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-42">
+          <mxGeometry x="70" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-11" value="获取&lt;br&gt;任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-42">
+          <mxGeometry x="140" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-12" value="任务&lt;br&gt;执行器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-42">
+          <mxGeometry x="210" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-13" value="任务队列结果" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-42">
+          <mxGeometry x="110" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-14" value="任务结果发送器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-42">
+          <mxGeometry x="180" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-15" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-42">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-43" value="" style="group" vertex="1" connectable="0" parent="bIRoI05e5nSDBnNICcpd-86">
+          <mxGeometry x="80" y="20" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-44" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-43">
+          <mxGeometry width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-45" value="任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-43">
+          <mxGeometry x="70" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-46" value="获取&lt;br&gt;任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-43">
+          <mxGeometry x="140" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-47" value="任务&lt;br&gt;执行器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-43">
+          <mxGeometry x="210" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-48" value="任务队列结果" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-43">
+          <mxGeometry x="110" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-49" value="任务结果发送器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-43">
+          <mxGeometry x="180" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-50" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-43">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-51" value="" style="group" vertex="1" connectable="0" parent="bIRoI05e5nSDBnNICcpd-86">
+          <mxGeometry x="90" y="30" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-52" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-51">
+          <mxGeometry width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-53" value="任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-51">
+          <mxGeometry x="70" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-54" value="获取&lt;br&gt;任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-51">
+          <mxGeometry x="140" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-55" value="任务&lt;br&gt;执行器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-51">
+          <mxGeometry x="210" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-56" value="任务队列结果" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-51">
+          <mxGeometry x="110" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-57" value="任务结果发送器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-51">
+          <mxGeometry x="180" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-58" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-51">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-59" value="" style="group" vertex="1" connectable="0" parent="bIRoI05e5nSDBnNICcpd-86">
+          <mxGeometry x="100" y="40" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-60" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-59">
+          <mxGeometry width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-61" value="任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-59">
+          <mxGeometry x="70" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-62" value="获取&lt;br&gt;任务队列" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-59">
+          <mxGeometry x="140" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-63" value="任务&lt;br&gt;执行器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-59">
+          <mxGeometry x="210" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-64" value="任务队列结果" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-59">
+          <mxGeometry x="110" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-65" value="任务结果发送器" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-59">
+          <mxGeometry x="180" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-66" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-59">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIRoI05e5nSDBnNICcpd-67" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bIRoI05e5nSDBnNICcpd-86">
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
